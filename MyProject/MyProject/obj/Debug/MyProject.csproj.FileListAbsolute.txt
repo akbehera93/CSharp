@@ -1,0 +1,6 @@
+e:\csharp\MyProject\MyProject\bin\Debug\MyProject.exe.config
+e:\csharp\MyProject\MyProject\bin\Debug\MyProject.exe
+e:\csharp\MyProject\MyProject\bin\Debug\MyProject.pdb
+e:\csharp\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+e:\csharp\MyProject\MyProject\obj\Debug\MyProject.exe
+e:\csharp\MyProject\MyProject\obj\Debug\MyProject.pdb
